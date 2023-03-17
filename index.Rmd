@@ -1,6 +1,6 @@
 --- 
 title: "TheArsenal"
-author: "YOUR NAME HERE"
+author: "Aidan Miller"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
