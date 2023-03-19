@@ -5,6 +5,6 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-#Go gunners!
-# Down the rabbit-hole
+Go gunners!
+Down the rabbit-hole
 
